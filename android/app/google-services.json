@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528501920360",
+    "project_id": "caretracker-7124d",
+    "storage_bucket": "caretracker-7124d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528501920360:android:a06cafd6d311024f56e1dd",
+        "android_client_info": {
+          "package_name": "com.example.care_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528501920360-h08tlcggdj7in71r7b0d9a4b5lovtlep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0c1vGCGGawQYxGIx6B4Xj_gZYND6OdVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528501920360-h08tlcggdj7in71r7b0d9a4b5lovtlep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
