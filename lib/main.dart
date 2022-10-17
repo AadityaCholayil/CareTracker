@@ -14,7 +14,7 @@ void main() {
     DeviceOrientation.portraitDown,
   ]);
   Bloc.observer = MyAppBlocObserver();
-  Bloc.transformer = sequential<dynamic>();
+  Bloc.transformer = concurrent<dynamic>();
   runApp(const FlutterFireInit());
 }
 
